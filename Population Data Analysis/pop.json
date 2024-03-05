@@ -1,0 +1,47 @@
+[
+  {
+    "pop2023": 673122,
+    "pop2020": 652503,
+    "growth": 0.01032,
+    "name": "Portland",
+    "aland_sqmi": 133.421,
+    "intptlat": 45.5369,
+    "intptlong": -122.65,
+    "slug": "portland-or",
+    "usps": "OR",
+    "lng": -122.65,
+    "lat": 45.5369,
+    "rank": 1,
+    "density": 5045
+  },
+  {
+    "pop2023": 182795,
+    "pop2020": 176654,
+    "growth": 0.01133,
+    "name": "Eugene",
+    "aland_sqmi": 44.138,
+    "intptlat": 44.0551,
+    "intptlong": -123.117,
+    "slug": "eugene-or",
+    "usps": "OR",
+    "lng": -123.117,
+    "lat": 44.0551,
+    "rank": 2,
+    "density": 4141
+  },
+  {
+    "pop2023": 181805,
+    "pop2020": 175535,
+    "growth": 0.01163,
+    "name": "Salem",
+    "aland_sqmi": 48.691,
+    "intptlat": 44.9239,
+    "intptlong": -123.023,
+    "slug": "salem-or",
+    "usps": "OR",
+    "lng": -123.023,
+    "lat": 44.9239,
+    "rank": 3,
+    "density": 3734
+  }
+]
