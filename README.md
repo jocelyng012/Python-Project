@@ -62,10 +62,7 @@ Initial board & After:
   * Implement constraint propagation and back-tracking search
   * Model-View-Controller (MVC) organization associates a graphical display with the game
 
-Logic of MVC:
-<img src="z_img/MVC3.png" >
-
-Before & After:
+Apply with the Soduku solver:
 <div class="image-row">
   <img src="z_img/hs-before.png" width="300" height="300" >
   <img src="z_img/hs-after.png" width="300" height="300" >
