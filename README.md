@@ -49,11 +49,11 @@ Bye! Thanks for the math!
   * Keep track of list of list and test scaffolding structures
 
 Initial board:
-<img src="initial.png" />
+<img src="z_img/initial.png" />
 
 
 After game:
-<img src="Game-with-score.png" />
+<img src="z_img/Game-with-score.png" />
 <br>
 <br>
 
@@ -62,6 +62,15 @@ After game:
   * A solver for the classic Sodoku
   * Implement constraint propagation and back-tracking search
   * Model-View-Controller (MVC) organization associates a graphical display with the game
+
+Logic of MVC:
+<img src="z_img/MVC3.png" />
+
+Before:
+<img src="z_img/hs-before.png" />
+
+After:
+<img src="z_img/hs-after.png" />
 <br>
 <br>
 
