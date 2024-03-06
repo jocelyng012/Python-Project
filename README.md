@@ -6,7 +6,6 @@ Below is the overview of all the projects:
 <br>
 
 ***Anagrams***
-
   * Find possible anagrams of words and phrases, including phrases of more than one word
   * Practice creating a collection of class
   * Recursive solution of an enumeration problem
@@ -16,7 +15,6 @@ Below is the overview of all the projects:
 
 
 ***Calculator***
-
   * Build a simple interactive postfix (Reverse Polish) calculator
   * Develop redundant code from concrete subclasses into a shared abstract base class
   * Recursive traversal of object structures
@@ -45,7 +43,6 @@ Below is the overview of all the projects:
 
 
 ***FiveTwelve***
-
   * Sliding tile game based on 2048
   * Follows Model-View-Controller (MVC) organization or design pattern
   * Keep track of list of list and test scaffolding structures
@@ -64,9 +61,8 @@ Below is the overview of all the projects:
 
 
 ***Sodoku Solver***
-
   * A solver for the classic Sodoku
   * Implement constraint propagation and back-tracking search
-  * Model-View-Controller (MVC) organization associate a graphical display with game
+  * Model-View-Controller (MVC) organization associates a graphical display with the game
 
 
