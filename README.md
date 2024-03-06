@@ -64,8 +64,8 @@ Initial board & After:
 
 Apply with the Soduku solver:
 <div class="image-row">
-  <img src="z_img/hs-before.png" width="100" height="100" >
-  <img src="z_img/hs-after.png" width="100" height="100" >
+  <img src="z_img/hs-before.png" width="200" height="200" >
+  <img src="z_img/hs-after.png" width="200" height="200" >
 </div>
 <br>
 <br>
