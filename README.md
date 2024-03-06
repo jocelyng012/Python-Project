@@ -50,8 +50,8 @@ Bye! Thanks for the math!
 
 Initial board & After:
 <div class="image-row">
-  <img src="z_img/initial.png" width="100" height="100" >
-  <img src="z_img/Game-with-score.png" width="100" height="100" >
+  <img src="z_img/initial.png" width="200" height="200" >
+  <img src="z_img/Game-with-score.png" width="200" height="200" >
 </div>
 <br>
 <br>
