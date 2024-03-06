@@ -1,14 +1,12 @@
 # Python-Project
 
-Python projects (Sequences CS 210 - CS 211 at the University of Oregon)
-
+Under the supervision of Professors Juan Flores and Michal Young, I completed Python projects for Sequences CS 210 and CS 211 at the University of Oregon. The projects were completed using the high-level programming language Python as part of my Introduction to Computer Science course.
 <br>
 <br>
 
-Below is the overview of all the projects: 
+Below is the overview of all the projects that consist in the GitHub repository: 
 <br>
 <br>
-
 
 ***Anagrams***
   * Find possible anagrams of words and phrases, including phrases of more than one word
@@ -44,7 +42,7 @@ Below is the overview of all the projects:
 
 
 ***Ciphers***
-  * Several cipher algorithms including Simple transpositon, Three-rail, ROT- 13, and Cipher chooser
+  * Several cipher algorithms including Simple transposition, Three-rail, ROT-13, and Cipher chooser
   * Design encrypt and decrypt functions
 <br>
 <br>
@@ -67,15 +65,15 @@ Below is the overview of all the projects:
 
 
 ***Data Analysis***
-  * Read data from CSV file
-  * Experiment with common benchmark from the area of Machine Learning
+  * Read data from the CSV file
+  * Experiment with a common benchmark from the area of Machine Learning
   * Matplotlib visualization and data analysis
 <br>
 <br>
 
 
 ***Population Data Analysis***
-  * Read data from JSON file
+  * Read data from the JSON file
   * Structured code by creating dictionaries and lists
   * Analysis and visualize data
 <br>
@@ -84,7 +82,4 @@ Below is the overview of all the projects:
 
 ***Postfix Notation***
   * Reverse Polish Notation (RPN)
-  * Using strings and lists to evaluate arithmetic experssions given in postfix notation
-
-
-
+  * Using strings and lists to evaluate arithmetic expressions given in postfix notation
