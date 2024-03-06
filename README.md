@@ -4,7 +4,7 @@ Python projects (Sequences CS 210 - CS 211 at the University of Oregon)
 
 Below is the overview of all the projects: 
 
-Anagrams:
+***Anagrams***
 
   * Find possible anagrams of words and phrases, including phrases of more than one word
   * Practice creating a collection of class
@@ -13,20 +13,20 @@ Anagrams:
 
 
 
-Calculator:
+***Calculator***
 
-Ciphers:
+***Ciphers***
 
-Clustering:
+***Clustering***
 
-Computing pi:
+***Computing pi***
 
-Data Analysis:
+***Data Analysis***
 
-FiveTwelve:
+***FiveTwelve***
 
-Population Data Analysis:
+***Population Data Analysis***
 
-Postfix Notation:
+***Postfix Notation***
 
-Sodoku Slover:
+***Sodoku Slover***
