@@ -49,10 +49,11 @@ Bye! Thanks for the math!
   * Keep track of list of list and test scaffolding structures
 
 Initial board:
-(img/initial.png)
+<img src="initial.png" />
+
 
 After game:
-(img/Game-with-score.png)
+<img src="Game-with-score.png" />
 <br>
 <br>
 
