@@ -9,7 +9,7 @@ Overview:
 
   * Practice creating a collection of class
   * Recursive solution of an enumeration problem
-  * Exposure to aliasing issues
+  * Exposure to aliasing issues and mutable data structures
 
 - Calculator
 
