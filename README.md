@@ -50,8 +50,8 @@ Bye! Thanks for the math!
 
 Initial board & After:
 <div class="image-row">
-  <img src="z_img/initial.png" width="300" height="300" >
-  <img src="z_img/Game-with-score.png" width="300" height="300" >
+  <img src="z_img/initial.png" width="100" height="100" >
+  <img src="z_img/Game-with-score.png" width="100" height="100" >
 </div>
 <br>
 <br>
@@ -64,8 +64,8 @@ Initial board & After:
 
 Apply with the Soduku solver:
 <div class="image-row">
-  <img src="z_img/hs-before.png" width="300" height="300" >
-  <img src="z_img/hs-after.png" width="300" height="300" >
+  <img src="z_img/hs-before.png" width="100" height="100" >
+  <img src="z_img/hs-after.png" width="100" height="100" >
 </div>
 <br>
 <br>
