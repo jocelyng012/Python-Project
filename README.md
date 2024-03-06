@@ -1,10 +1,17 @@
 # Python-Project
 
-Consist some of the projects during the time of CS 211 at the University of Oregon
+Python projects (Sequences CS 210 - CS 211 at the University of Oregon)
 
-Anagrams:
+Overview: 
 
-Calculator:
+- Anagrams
+  Find possible anagrams of words and phrases, including phrases of more than one word
+
+  * Practice creating a collection of class
+  * Recursive solution of an enumeration problem
+  * Exposure to aliasing issues
+
+- Calculator
 
 Ciphers:
 
