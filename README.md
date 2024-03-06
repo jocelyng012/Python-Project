@@ -48,12 +48,11 @@ Bye! Thanks for the math!
   * Follows Model-View-Controller (MVC) organization or design pattern
   * Keep track of list of list and test scaffolding structures
 
-Initial board:
-<img src="z_img/initial.png" />
-
-
-After game:
-<img src="z_img/Game-with-score.png" />
+Initial board & After:
+<div class="image-row">
+  <img src="z_img/initial.png" width="400" height="400" >
+  <img src="z_img/Game-with-score.png" width="400" height="400" >
+</div>
 <br>
 <br>
 
@@ -64,13 +63,13 @@ After game:
   * Model-View-Controller (MVC) organization associates a graphical display with the game
 
 Logic of MVC:
-<img src="z_img/MVC3.png" />
+<img src="z_img/MVC3.png" >
 
-Before:
-<img src="z_img/hs-before.png" />
-
-After:
-<img src="z_img/hs-after.png" />
+Before & After:
+<div class="image-row">
+  <img src="z_img/hs-before.png" width="400" height="400" >
+  <img src="z_img/hs-after.png" width="400" height="400" >
+</div>
 <br>
 <br>
 
