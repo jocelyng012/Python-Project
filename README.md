@@ -50,8 +50,8 @@ Bye! Thanks for the math!
 
 Initial board & After:
 <div class="image-row">
-  <img src="z_img/initial.png" width="400" height="400" >
-  <img src="z_img/Game-with-score.png" width="400" height="400" >
+  <img src="z_img/initial.png" width="300" height="300" >
+  <img src="z_img/Game-with-score.png" width="300" height="300" >
 </div>
 <br>
 <br>
@@ -67,8 +67,8 @@ Logic of MVC:
 
 Before & After:
 <div class="image-row">
-  <img src="z_img/hs-before.png" width="400" height="400" >
-  <img src="z_img/hs-after.png" width="400" height="400" >
+  <img src="z_img/hs-before.png" width="300" height="300" >
+  <img src="z_img/hs-after.png" width="300" height="300" >
 </div>
 <br>
 <br>
