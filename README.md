@@ -3,6 +3,7 @@
 Python projects (Sequences CS 210 - CS 211 at the University of Oregon)
 
 Below is the overview of all the projects: 
+<br>
 
 ***Anagrams***
 
@@ -11,6 +12,8 @@ Below is the overview of all the projects:
   * Recursive solution of an enumeration problem
   * Aliasing issues and mutable data structures
 <br>
+<br>
+
 
 ***Calculator***
 
@@ -18,36 +21,52 @@ Below is the overview of all the projects:
   * Develop redundant code from concrete subclasses into a shared abstract base class
   * Recursive traversal of object structures
 <br>
+<br>
+
 
 ***Ciphers***
 <br>
+<br>
+
 
 ***Clustering***
 <br>
+<br>
+
 
 ***Computing pi***
 <br>
+<br>
+
 
 ***Data Analysis***
 <br>
+<br>
+
 
 ***FiveTwelve***
 
   * Sliding tile game based on 2048
-  * Follows Model-View-Controller (MVC) oreganization or design pattern
+  * Follows Model-View-Controller (MVC) organization or design pattern
   * Keep track of list of list and test scaffolding structures
 <br>
+<br>
+
 
 ***Population Data Analysis***
 <br>
+<br>
+
 
 ***Postfix Notation***
 <br>
+<br>
+
 
 ***Sodoku Solver***
 
   * A solver for the classic Sodoku
   * Implement constraint propagation and back-tracking search
-  * Model-View-Controller (MVC) oreganization associate a graphical display with game
+  * Model-View-Controller (MVC) organization associate a graphical display with game
 
 
