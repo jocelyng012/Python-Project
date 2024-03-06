@@ -4,7 +4,7 @@ Under the supervision of Professors Juan Flores and Michal Young, I completed Py
 <br>
 <br>
 
-Below is the overview of all the projects that consist in the GitHub repository: 
+Below is the overview of all the projects that are in the GitHub repository: 
 <br>
 <br>
 
@@ -13,6 +13,14 @@ Below is the overview of all the projects that consist in the GitHub repository:
   * Practice creating a collection of class
   * Recursive solution of an enumeration problem
   * Aliasing issues and mutable data structures
+
+Example with seed crime
+```shell
+python3 anagram.py --seed crime "Computer Science"
+```
+```text
+crime concept use    crime cup scene to   crime cup once set
+```
 <br>
 <br>
 
@@ -21,6 +29,16 @@ Below is the overview of all the projects that consist in the GitHub repository:
   * Build a simple interactive postfix (Reverse Polish) calculator
   * Develop redundant code from concrete subclasses into a shared abstract base class
   * Recursive traversal of object structures
+
+Interaction with ```rpncalc.py``` will look like: 
+```
+Expression (return to quit):5 6 * x =
+x = (5 * 6) => 30
+Expression (return to quit):x 3 *
+(x * 3) => 90
+Expression (return to quit):
+Bye! Thanks for the math!
+```
 <br>
 <br>
 
@@ -29,6 +47,12 @@ Below is the overview of all the projects that consist in the GitHub repository:
   * Sliding tile game based on 2048
   * Follows Model-View-Controller (MVC) organization or design pattern
   * Keep track of list of list and test scaffolding structures
+
+Initial board:
+(img/initial.png)
+
+After game:
+(img/Game-with-score.png)
 <br>
 <br>
 
