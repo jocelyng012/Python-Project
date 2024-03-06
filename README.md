@@ -11,6 +11,8 @@ About the overview of all the projects:
   * Recursive solution of an enumeration problem
   * Exposure to aliasing issues and mutable data structures
 
+
+
 - Calculator
 
 Ciphers:
