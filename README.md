@@ -1,6 +1,6 @@
 # Python-Project
 
-Under the supervision of Professors Juan Flores and Michal Young, I completed Python projects for Sequences CS 210 and CS 211 at the University of Oregon. The projects were completed using the high-level programming language Python as part of my Introduction to Computer Science course.
+Under the supervision of Professors Juan Flores, Michal Young, and Daniel Lowd, I completed Python projects for Sequences CS 210, CS 211, and CS 313 at the University of Oregon. The projects were completed using the high-level programming language Python as part of my Introduction to Computer Science course.
 <br>
 <br>
 
